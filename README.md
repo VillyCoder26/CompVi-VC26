@@ -41,6 +41,8 @@ pip install customtkinter CTkToolTip packaging darkdetect
 └── 🌓 darkdetect/                 # Dependencia de customtkinter
 
 ## ▶️ Cómo Usar la Aplicación ▶️
+![image](https://github.com/user-attachments/assets/98b4de71-9df5-4d7e-82e0-38511432e9d4)
+
 1. Ejecuta CompVi-VC26.py (si tienes Python) o el CompVi-VC26.exe .
 2. 🖱️ Haz clic en "Seleccionar Archivo(s)" y elige los vídeos que quieres comprimir.
 3. 🖱️ Haz clic en "Seleccionar Carpeta" y elige dónde guardar los resultados.
